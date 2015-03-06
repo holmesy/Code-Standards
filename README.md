@@ -6,7 +6,7 @@ Each less file needs to start with the following.
 
 /*
 	Name: StudioMoso
-	Date: 
+	Date:
 	File: base.less
 	Version: 1.0
 */
